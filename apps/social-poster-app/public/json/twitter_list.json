@@ -8,10 +8,7 @@
             "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \n\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
             "prompt_to_media": "",
             "media_path": "",
-            "hashtags": [
-                "#hashtag1",
-                "#hashtag2"
-            ],
+            "hashtags": ["#hashtag1", "#hashtag2"],
             "status": "posted",
             "is_thread": false,
             "threads": []
